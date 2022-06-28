@@ -14,3 +14,5 @@ In der 2.Woche haben wir versucht unser Projekt mit Git zu verbinden. Leider war
 In der Dritten Woche haben wir mit dem Programmieren unseres Projektes gestartet. Da Git nach einer weile entflich Funktionierte konnten wir entlich Starten.  Wir haben es gut Aufteilen können wer was macht da wir eine gute Skizze haben. Dass heisst jemand machte die Index seite und das Css und die andere machte dann das gleiche einfach für die Spielseite. 
 * Was in der 3 Woche gut lief war die kommunikation wer was macht und die Aufteilung
 * Was weniger gut war ist das Git manchmal probleme mit dem Pushen hat.
+
+## 3. Woche
