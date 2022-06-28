@@ -85,28 +85,28 @@ const questions = [
       ]
     },
     {
-      question: 'Who is the best YouTuber?',
+      question: 'How many time zones are there in Russia?',
       answers: [
-        { text: 'Web Dev Simplified', correct: true },
-        { text: 'Traversy Media', correct: true },
-        { text: 'Dev Ed', correct: true },
-        { text: 'Fun Fun Function', correct: true }
+        { text: '0', correct: false },
+        { text: '8', correct: false },
+        { text: '11', correct: true },
+        { text: '9', correct: false }
       ]
     },
     {
-      question: 'Is web development fun?',
+      question: 'How long does it take to get to the Mariana Trench?',
       answers: [
-        { text: 'Kinda', correct: false },
-        { text: 'YES!!!', correct: true },
-        { text: 'Um no', correct: false },
+        { text: '4h', correct: true },
+        { text: '1 Month', correct: false },
+        { text: '6Month', correct: false },
         { text: 'IDK', correct: false }
       ]
     },
     {
-      question: 'What is 4 * 2?',
+      question: 'How fast is the fastest animal?',
       answers: [
-        { text: '6', correct: false },
-        { text: '8', correct: true }
+        { text: '157,03', correct: false },
+        { text: '103', correct: true }
       ]
     }
   ]
