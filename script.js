@@ -103,6 +103,24 @@ const questions = [
       ]
     },
     {
+        question: 'How many letters does the Hawaiian alphabet have?',
+        answers: [
+          { text: '24', correct: false },
+          { text: '19', correct: false },
+          { text: '54', correct: false },
+          { text: '12', correct: true }
+        ]
+      },
+      {
+        question: 'Which country is the second largest in the world by area?',
+        answers: [
+          { text: 'Russia', correct: false },
+          { text: 'Canada', correct: true },
+          { text: 'Srbiaaaa', correct: false },
+          { text: 'Africa', correct: false }
+        ]
+      },
+    {
       question: 'How fast is the fastest animal?',
       answers: [
         { text: '157,03', correct: false },
