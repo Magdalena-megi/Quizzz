@@ -78,35 +78,35 @@ function clearStatusClass(element) {
 
 const questions = [
     {
-      question: 'How many stripes are on the US flag?',
+        question: 'How many stripes are on the US flag?',
       answers: [
         { text: '13', correct: true },
         { text: '14', correct: false }
       ]
     },
     {
-      question: 'How many time zones are there in Russia?',
+      question: 'Who is the best YouTuber?',
       answers: [
-        { text: '0', correct: false },
-        { text: '8', correct: false },
-        { text: '11', correct: true },
-        { text: '9', correct: false }
+        { text: 'Web Dev Simplified', correct: true },
+        { text: 'Traversy Media', correct: true },
+        { text: 'Dev Ed', correct: true },
+        { text: 'Fun Fun Function', correct: true }
       ]
     },
     {
-      question: 'How long does it take to get to the Mariana Trench?',
+      question: 'Is web development fun?',
       answers: [
-        { text: '4h', correct: true },
-        { text: '1 Month', correct: false },
-        { text: '6Month', correct: false },
+        { text: 'Kinda', correct: false },
+        { text: 'YES!!!', correct: true },
+        { text: 'Um no', correct: false },
         { text: 'IDK', correct: false }
       ]
     },
     {
-      question: 'how fast is the fastest animal',
+      question: 'What is 4 * 2?',
       answers: [
-        { text: '157,03', correct: false },
-        { text: '103', correct: true }
+        { text: '6', correct: false },
+        { text: '8', correct: true }
       ]
     }
   ]
