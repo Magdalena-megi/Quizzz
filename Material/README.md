@@ -15,4 +15,7 @@ In der Dritten Woche haben wir mit dem Programmieren unseres Projektes gestartet
 * Was in der 3 Woche gut lief war die kommunikation wer was macht und die Aufteilung
 * Was weniger gut war ist das Git manchmal probleme mit dem Pushen hat.
 
-## 3. Woche
+## 4. Woche
+In der vireten und letzen Woche mussten wir unser Projekt noch fertig macchen und die Präsentation erstellen.
+Wir hatten eine kleine Design änderung und haben unser Projkt einwenig umdesignt weil das andere nicht so gut geklappt hat.
+Also mussten wir das Css nochmals umändern. Mit dem Css sind wir recht schnell fertig geworden und haben an unserer Präsentation gearbeitet. Die zusammen Arbeit verlief in der Projektarbeit recht gut und sind auch sehr zufrieden mit unserem Projket.

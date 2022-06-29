@@ -1,13 +1,14 @@
 *, *::before, *::after {
   box-sizing: border-box;
-  font-family: Gotham Rounded;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 :root {
-  --hue-neutral: 200;
+  --hue-neutral: 270;
   --hue-wrong: 0;
   --hue-correct: 145;
 }
+
 
 body {
   --hue: var(--hue-neutral);
@@ -19,6 +20,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: hsl(var(--hue), 100%, 20%);
+  
 }
 
 
@@ -37,6 +39,7 @@ body.wrong {
   border-radius: 5px;
   padding: 10px;
   box-shadow: 0 0 10px 2px;
+  
 }
 
 .btn-grid {
@@ -84,3 +87,6 @@ body.wrong {
 .hide {
   display: none;
 }
+
+
+
