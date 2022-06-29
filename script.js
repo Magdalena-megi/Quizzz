@@ -86,6 +86,7 @@ const questions = [
       ]
     },
     {
+     
       question: 'How many time zones are there in Russia?',
       answers: [
         { text: '0', correct: false },
@@ -129,13 +130,31 @@ const questions = [
           { text: '1976', correct: false },
           { text: '1983', correct: false }
         ]
-      },    {
+      },   
+       {
         question: 'When did Christopher Columbus discover America?',
         answers: [
           { text: '1476', correct: false },
           { text: '2022', correct: false },
           { text: '1598', correct: false },
           { text: '1492 ', correct: true }
+        ]
+      }, {
+        question: 'which is the best selling book in the world?',
+        answers: [
+          { text: 'Harry Potter', correct: false },
+          { text: 'Bible', correct: true },
+          { text: 'Koran', correct: false },
+          { text: 'Don Quijote ', correct: false }
+        ]
+      },
+      {
+        question: 'which is the best selling book in the world?',
+        answers: [
+          { text: 'Harry Potter', correct: false },
+          { text: 'Bible', correct: true },
+          { text: 'Koran', correct: false },
+          { text: 'Don Quijote ', correct: false }
         ]
       },
     {
