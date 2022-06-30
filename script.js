@@ -86,7 +86,6 @@ const questions = [
     ]
   },
   {
-
     question: 'How many time zones are there in Russia?',
     answers: [
       { text: '0', correct: false },
@@ -98,7 +97,6 @@ const questions = [
   {
     question: 'How long does it take to get to the Mariana Trench?',
     answers: [
-
       { text: '4h', correct: true },
       { text: '1 Month', correct: false },
       { text: '6Month', correct: false },
@@ -167,5 +165,4 @@ const questions = [
       { text: '103', correct: true }
     ]
   }
-
 ]
