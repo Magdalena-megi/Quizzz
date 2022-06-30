@@ -8,7 +8,8 @@ In der 1 Woche haben mussten wir uns Gedanken für ein Projekt machen. Wir haben
 
 
 ## 2. Woche
-In der 2.Woche haben wir versucht unser Projekt mit Git zu verbinden. Leider waren wir da nicht sehr erfolgreich und hatten grosse Schwierigkeiten weil wir anscheinend keinen Zugang hätten. Doch nachdem wir uns es  zusammen anschauten haben wir es geschafft und konnten erfolgreich pull und push requests ausführen.
+In der 2.Woche haben wir versucht unser Projekt mit Git zu verbinden. Leider waren wir da nicht sehr erfolgreich und hatten grosse Schwierigkeiten, weil wir anscheinend keinen Zugang hätten. Doch nachdem wir es zusammen anschauten haben wir es geschafft und konnten erfolgreich pull und push requests ausführen.
+* Teamwork lief gut
 
 ## 3. Woche
 In der Dritten Woche haben wir mit dem Programmieren unseres Projektes gestartet. Da Git nach einer weile entflich Funktionierte konnten wir entlich Starten.  Wir haben es gut Aufteilen können wer was macht da wir eine gute Skizze haben. Dass heisst jemand machte die Index seite und das Css und die andere machte dann das gleiche einfach für die Spielseite. 
@@ -16,6 +17,6 @@ In der Dritten Woche haben wir mit dem Programmieren unseres Projektes gestartet
 * Was weniger gut war ist das Git manchmal probleme mit dem Pushen hat.
 
 ## 4. Woche
-In der vireten und letzen Woche mussten wir unser Projekt noch fertig macchen und die Präsentation erstellen.
-Wir hatten eine kleine Design änderung und haben unser Projkt einwenig umdesignt weil das andere nicht so gut geklappt hat.
+In der vierten und letzen Woche mussten wir unser Projekt noch fertig macchen und die Präsentation erstellen.
+Wir hatten eine kleinee Design änderung, weil das andere nicht so gut geklappt hat.
 Also mussten wir das Css nochmals umändern. Mit dem Css sind wir recht schnell fertig geworden und haben an unserer Präsentation gearbeitet

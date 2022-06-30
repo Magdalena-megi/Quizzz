@@ -121,7 +121,7 @@ const questions = [
     answers: [
       { text: 'Russia', correct: false },
       { text: 'Canada', correct: true },
-      { text: 'Srbiaaaa', correct: false },
+      { text: 'Srbjaaaa', correct: false },
       { text: 'Africa', correct: false }
     ]
   },
